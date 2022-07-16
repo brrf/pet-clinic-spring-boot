@@ -1,5 +1,5 @@
 package moshe.dev.moshepetclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
 
 }
