@@ -1,5 +1,14 @@
 moshe/dev/moshepetclinic/model/Person.class
-moshe/dev/moshepetclinic/model/PetType.class
 moshe/dev/moshepetclinic/model/Pet.class
 moshe/dev/moshepetclinic/model/Vet.class
+moshe/dev/moshepetclinic/services/VetService.class
+moshe/dev/moshepetclinic/services/map/OwnerServiceMap.class
+moshe/dev/moshepetclinic/services/OwnerService.class
+moshe/dev/moshepetclinic/services/CrudService.class
+moshe/dev/moshepetclinic/services/map/AbstractMapService.class
+moshe/dev/moshepetclinic/services/map/VetServiceMap.class
+moshe/dev/moshepetclinic/model/BaseEntity.class
+moshe/dev/moshepetclinic/services/map/PetServiceMap.class
+moshe/dev/moshepetclinic/services/PetService.class
+moshe/dev/moshepetclinic/model/PetType.class
 moshe/dev/moshepetclinic/model/Owner.class

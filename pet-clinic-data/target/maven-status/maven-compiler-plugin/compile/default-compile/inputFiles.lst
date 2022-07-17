@@ -1,5 +1,14 @@
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/PetService.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/BaseEntity.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/Owner.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/map/AbstractMapService.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/Pet.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/map/VetServiceMap.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/map/PetServiceMap.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/PetType.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/VetService.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/CrudService.java
 /Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/Vet.java
 /Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/Person.java
-/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/Owner.java
-/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/Pet.java
-/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/model/PetType.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/map/OwnerServiceMap.java
+/Users/moshepraver/Documents/Java/pet-clinic-spring-boot/pet-clinic-data/src/main/java/moshe/dev/moshepetclinic/services/OwnerService.java
