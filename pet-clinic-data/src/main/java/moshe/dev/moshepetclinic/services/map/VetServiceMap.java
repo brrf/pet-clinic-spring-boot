@@ -2,10 +2,11 @@ package moshe.dev.moshepetclinic.services.map;
 
 import moshe.dev.moshepetclinic.model.Vet;
 import moshe.dev.moshepetclinic.services.CrudService;
+import moshe.dev.moshepetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
     @Override
     public Vet save(Vet object) {
         return super.save(object.getId(), object);
