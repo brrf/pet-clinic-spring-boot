@@ -2,9 +2,11 @@ package moshe.dev.moshepetclinic.services.map;
 
 import moshe.dev.moshepetclinic.model.Owner;
 import moshe.dev.moshepetclinic.services.OwnerService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService {
     @Override
     public Owner save(Owner object) {

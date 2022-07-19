@@ -2,9 +2,11 @@ package moshe.dev.moshepetclinic.services.map;
 
 import moshe.dev.moshepetclinic.model.Pet;
 import moshe.dev.moshepetclinic.services.CrudService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
     @Override
     public Pet save(Pet object) {

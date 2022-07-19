@@ -3,9 +3,11 @@ package moshe.dev.moshepetclinic.services.map;
 import moshe.dev.moshepetclinic.model.Vet;
 import moshe.dev.moshepetclinic.services.CrudService;
 import moshe.dev.moshepetclinic.services.VetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
     @Override
     public Vet save(Vet object) {
